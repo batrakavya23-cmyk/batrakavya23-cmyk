@@ -2,21 +2,33 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavya+Batra!;" />
-</h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">Hey there, I'm Kavya Batra 👋</h1>
+
+<h3 align="center">AI/ML Developer • Research Enthusiast • Hackathon Finalist from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Telecom Billing Software** - Yes, the thing behind your phone bill ;-)
- 
- 🌱 I’m currently learning **Java, Spring Boot, Distributed Computing**
 
-💬 Ask me about **Node.js, React, AWS... or anything [here](https://github.com/devanshbatra?tab=repositories)**
+🔭 I'm currently building **AI/ML projects and research-driven applications**
 
- </div>
+🌱 I'm exploring **Machine Learning, Deep Learning, Java, Spring Boot & AI Systems**
+
+🧠 I'm interested in **Applied AI, intelligent systems, and research-backed innovation**
+
+🏆 **6× Hackathon Finalist** | Building projects that go beyond the idea stage
+
+💬 Ask me about **Python, Java, Machine Learning, AI/ML Projects**
+
+🚀 Always curious about how things work — and driven to build something meaningful with them.
+
+<br/>
+
+📌 Explore my work: <a href="https://github.com/batrakavya23-cmyk">GitHub Repositories</a>
+
+</div>
+
  
 <div align="center"> 
   <a href="mailto:batrakavya.23@gmail.com">
