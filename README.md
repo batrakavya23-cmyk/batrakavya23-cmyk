@@ -5,7 +5,7 @@
 
 <h1 align="center">Hey there, I'm Kavya Batra 👋</h1>
 
-<h3 align="center">AI/ML Developer • Research Enthusiast • Hackathon Finalist from India 🇮🇳</h3>
+<h3 align="center">AI/ML Developer • Research Enthusiast • Software Engineer in the Making 🇮🇳</h3>
 
 <br/>
 
